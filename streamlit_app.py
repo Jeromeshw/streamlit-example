@@ -1,1 +1,1 @@
-lscpu
+nvidia-smi
