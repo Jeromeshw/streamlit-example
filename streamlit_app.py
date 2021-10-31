@@ -1,2 +1,1 @@
 lscpu
-!lscpu
